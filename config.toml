@@ -1,0 +1,4 @@
+baseURL = 'http://davidstclair.co.uk/'
+languageCode = 'en-us'
+title = 'David StClair'
+theme = "cleanwhite"
