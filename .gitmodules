@@ -1,3 +1,4 @@
-[submodule "cleanwhite"]
-	path = cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+
+[submodule "beautifulhugo"]
+	path = beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
