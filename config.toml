@@ -1,4 +1,4 @@
-baseURL = 'davidstclair.pages.dev'
+baseURL = 'https://davidstclair.pages.dev'
 languageCode = 'en-us'
 title = 'David StClair'
 theme = "beautifulhugo"
