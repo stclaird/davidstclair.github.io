@@ -11,7 +11,8 @@ However, although the outlook for nature looks a bit bleak, all is not lost and 
 ## What do you need?
 - A garden or patch of land big enough to host a pond. This is the biggest item on the list of requirements. And given the current cost of housing and land in the UK it will remain the most difficult for the forseeable future.
 - A person with enough physical fitness to dig a hole in the ground approx. 1 metre long x 1 metre wide and at least 30cm deep. Those sizes are not set in stone and can be adjusted to suit your area.
-- Digging tools. Ideally a garden fork, spade, shovel ( I use a cornish shovel like gangsters use for burying corpses ), a pick or micro pick for getting rid of stones or roots in the ground. Example below shows a pick, spirit level, mini spade and corpse shovel. No fork shown for some reason but I do use one.
+- Digging tools. Ideally a garden fork, spade, shovel ( I use a cornish shovel like gangsters use for burying corpses ), a pick or micro pick for getting rid of stones or roots in the ground. Example below shows a pick, spirit level, mini spade and corpse shovel. No fork shown for some reason in the picture, but I do use one.
+
 ![Digging Tools](/img/pond-digging-tools-1.jpeg)
 
 - Some way of getting rid of the excavated soil. Even a small pond will create decent size pile of soil. Several ways of doing this exist. For example, hire a skip or grab lorry, take it to the tip, although some tips charge for soil nowadays, build it in raised planters or lose it within the garden like the prisoners did in in the 1963 film The Great Escape. You don’t have to be sneaky about it the way they were in that film, you can just simply spread it out on your flower beds in full view of everyone.
