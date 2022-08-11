@@ -1,5 +1,5 @@
 ---
-title: "Building a Nature Pond in the UK"
+title: "Building a Nature Pond: Part 1"
 date: 2022-02-09T23:28:38+01:00
 authors: ["David StClair"]
 draft: false
@@ -41,24 +41,3 @@ Selecting where to site your pond is something you want to get right first time,
 
 I have suggested to site the pond a few metres away from your house. This isn’t essential but it is something I prefer to do, as having a body of water too close to my house  doesn’t seem sensible.  Away from trees, is again not essential, however trees can cause the following issues: excess leaf matter, roots damage and can block sunlight.  Leaf matter will rot away in your pond and will need to be cleared regularly, which is a chore. Roots puncturing the liner is of course serious as it will likely cause the pond to leak. Sunlight is important as it helps creatures that populate the pond to thrive, daphnia and tadpoles being two such examples.
 
-## Getting Started
-### Measuring out 
-This guide is about building ponds with flexible liners. Although the flexible part of its name comes from the flex in its material  you can also be quite flexible about measuring out the shape and size your pond is going to be.  If you are planning a small oval shaped pond, then measuring out is so simple as to almost not be required. You can just start digging with your spade, being mindful of the size of liner you are planning to purchase or have purchased.  If you are creating a larger complex shape or perhaps a more rigid shape like a neat square shape then you need to measure out with some guides. 
-
-What do I use for guides?  Well, if you are planning on digging a straight square or rectangle pond then 4 tent pegs or small 6 inch pieces of wood make good guides. One hammered in upright at each corner with a length of string connecting them to form a square or rectangle in the ground.  For example, if you wanted to make a 2 metre square shaped pond, then its just a case of hammering the pegs in 2 metres apart.
-
-![Digging Tools](/img/mark-out-pond-square.png)
-
-If you plan to do a more natural shape then a hose pipe or length of rope laid in the shape you choose, this will provide the guidance for digging. Alternatively, take a can of paint and paint out the shape you want.
-
-![Digging Tools](/img/marking-out-freeform.png)
-
-## Preparation
-Not much in the way of preparation is needed - however there are a couple of things to consider.
-
-- Where will you put the excavated soil whilst you are digging. You need to put it sufficiently far enough away that it doesn't get in the way of digging and gives enough clearance for laying the liner. 
-
-## Breaking Ground
-Once you have measured out or are at least ready to dig then it is time to start.
-
-This is simple enough - with your spade or edging tool, push down and break the soil along the outside edge of the area you are excavating. If you are working in an area of grass or turf then you need to scalp this layer of grass and roots off first.
