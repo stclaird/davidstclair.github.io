@@ -1,5 +1,5 @@
 ---
-title: "Building a Nature Pond in the UK"
+title: "Building a Nature Pond Part 1"
 date: 2022-02-09T23:28:38+01:00
 authors: ["David StClair"]
 draft: false
@@ -18,7 +18,7 @@ However, although the outlook for nature looks a bit bleak, all is not lost and 
 - Some way of getting rid of the excavated soil. Even a small pond will create decent size pile of soil. Several ways of doing this exist. For example, hire a skip or grab lorry, take it to the tip, although some tips charge for soil nowadays, build it in raised planters or lose it within the garden like the prisoners did in in the 1963 film The Great Escape. You don’t have to be sneaky about it the way they were in that film, you can just simply spread it out on your flower beds in full view of everyone.
 - A plastic pond liner and underlay. Pond-liners are used to hold the water in the pond and without some water tight lining the water will escape into the ground. Choosing a pond liner is discussed in detail in the section “Choosing you pond liner”.
 
-How hard is this going to be?
+## How hard is this going to be?
 The difficulty really depends on a few factors:
 
 How phyically fit are you? You don’t have to be an athlete to dig the hole for a pond, but the fitter you are the easier it is.
@@ -47,7 +47,11 @@ This guide is about building ponds with flexible liners. Although the flexible p
 
 What do I use for guides?  Well, if you are planning on digging a straight square or rectangle pond then 4 tent pegs or small 6 inch pieces of wood make good guides. One hammered in upright at each corner with a length of string connecting them to form a square or rectangle in the ground.  For example, if you wanted to make a 2 metre square shaped pond, then its just a case of hammering the pegs in 2 metres apart.
 
+![Digging Tools](/img/mark-out-pond-square.png)
+
 If you plan to do a more natural shape then a hose pipe or length of rope laid in the shape you choose, this will provide the guidance for digging. Alternatively, take a can of paint and paint out the shape you want.
+
+![Digging Tools](/img/marking-out-freeform.png)
 
 ## Preparation
 Not much in the way of preparation is needed - however there are a couple of things to consider.
