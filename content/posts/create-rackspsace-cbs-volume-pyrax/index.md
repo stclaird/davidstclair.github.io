@@ -56,7 +56,7 @@ try:
     print "Snapshot Created"
 except:
     pass
-    ```
+```
 Now you can run the code and create a snapshot – save the code into a file (I called mine create_snap.py) and then run, you should see some output like this:
 ```bash
 python create_snap.py
