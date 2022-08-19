@@ -12,6 +12,6 @@ The aliens and civilisations in movies from the 1960s, 70s and 80s often sported
 ![UFO Space Bob](ufo-space-bob.jpg)
 
 ## 2. Warlords of Atlantis
-Warlords of Atlantis is 1978 Doug McClure Classic Sci-Fi, well sort of, it isn't actually set in space or even set in the future, instead the film mostly takes place under the sea in Atlantis in the late 19th Century. However, but the alien civilisation  originated from Space.  How do I know, well one of the main aliens Atmir, has a Space bob complete with Widows peak.  Also I think they tell you in the story.
+Warlords of Atlantis is 1978 Doug McClure Classic Sci-Fi adventure. Well sort of, it isn't actually set in space or even set in the future, instead the film mostly takes place under the sea in Atlantis in the late 19th Century. However, but the alien civilisation  originated from Space.  How do I know, well one of the main aliens Atmir, has a Space bob complete with Widows peak.  Also I think they tell you in the story.
 
 ![Warlords of Atlantis Atmir](atmir-warlords-of-atlantis.jpg)
