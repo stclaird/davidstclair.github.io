@@ -33,10 +33,12 @@ Meglos is from the Tom Baker period of Dr Who, personally I felt that the 4th Dr
 
 ![Dr Who Savant](Dr-Who-Deedrix.jpg)
 
+## 6. The Time Machine: Male Eloi
+In The Time Machine film from 1960, the Eloi  or at least males do have silly Space bobs.  The girls don't though so 
 
 
 # Honourable Mentions
-## 5. SouthPark: United Atheist Alliance
+## 1. SouthPark: United Atheist Alliance
 The united atheist alliance are a race of people descended from present day mankind.  They mostly seem to have the Space bob.  The reason this is not in the main list, is because a lot this episode is splendid a parody of 1970s Sci-Fi like Buck Rogers and Battle Star Galactica etc. 
 
 ![SouthPark](United-atheist-alliance.webp)
