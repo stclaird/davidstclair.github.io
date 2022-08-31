@@ -6,15 +6,15 @@
     <description>Recent content in Posts on David StClair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Feb 2022 23:28:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 09:28:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building a Nature Pond in the UK</title>
-      <link>http://localhost:1313/posts/building-a-nature-pond-uk/</link>
-      <pubDate>Wed, 09 Feb 2022 23:28:38 +0100</pubDate>
+      <title>Silly Science Space Hair Bob</title>
+      <link>http://localhost:1313/posts/silly-science-fiction-hair/</link>
+      <pubDate>Tue, 23 Mar 2021 17:28:38 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/building-a-nature-pond-uk/</guid>
-      <description>Mankind has all but won the war on nature. Species are in retreat all over the world and here in the UK the situation is no different.
-However, although the outlook for nature looks a bit bleak, all is not lost and there is one direct and simple action that you can take to help call a truce with nature and that is to dig a pond in your garden.</description>
+      <guid>http://localhost:1313/posts/silly-science-fiction-hair/</guid>
+      <description>The aliens and civilisations in movies from the 1960s, 70s and 80s often sported a splendid space bob. Before I compiled this blog post I couldn&amp;rsquo;t put my finger on which films and TV programmes featured characters with space bobs but even so I kind of knew they existed.
+The list 1. UFO UFO is a British TV series created by Thunderbird&amp;rsquo;s creator Gerry Anderson. I have never watched this series, although it gets a respectable score (7.</description>
     </item>
     
     <item>
@@ -28,6 +28,15 @@ Auto-scalers can be configured to fire up more ec2 compute instances when demand
     </item>
     
     <item>
+      <title>Tweaking your PHP via php.ini and Puppet Augeas</title>
+      <link>http://localhost:1313/posts/tweaking-php-puppet-augeas/</link>
+      <pubDate>Fri, 23 Sep 2016 15:28:38 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/tweaking-php-puppet-augeas/</guid>
+      <description>If you have ever wanted to make a change to some of the settings to your php setup via PHP.ini file then using puppet and the augeas type could be the perfect solution. Augeas will read in a configuration file and allow you to specify changes and save them for you. Augeas is not actually a puppet specific tool and can be used generally for configuration file alteration. Of course, you could use an ERB template to build the php.</description>
+    </item>
+    
+    <item>
       <title>Delete Pyrax Cloud Block Storage Volumes Snapshots Older than N days</title>
       <link>http://localhost:1313/posts/delete-pyrax-cloud-blockstorage/</link>
       <pubDate>Thu, 17 Dec 2015 23:28:38 +0100</pubDate>
@@ -37,6 +46,16 @@ Auto-scalers can be configured to fire up more ec2 compute instances when demand
 This very simple example shows you how to delete snapshots taken of rackspace cloud volumes older than N days. In this example N days will be 7 days.
 This example makes the following assumptions:
 you have a Pyrax installed you have your Rackspace API credentials key.</description>
+    </item>
+    
+    <item>
+      <title>Snapshot Rackspace CBS volume with Python Pyrax</title>
+      <link>http://localhost:1313/posts/create-rackspsace-cbs-volume-pyrax/</link>
+      <pubDate>Thu, 17 Dec 2015 23:28:38 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/create-rackspsace-cbs-volume-pyrax/</guid>
+      <description>This very simple example shows you how to take a snapshot of a Rackpace cloud volume. This document makes the following assumptions: -you have a Pyrax installed -you have your Rackspace API credentials key. -you know your Rackspace volume uid – which looks like this: 56568786-4659-67575-9ab3-6767968
+Add the pyrax import import pyrax Prepare to initialize your pyrax by setting the identity type and add your rackspace api credentials pyrax.set_setting(&amp;#34;identity_type&amp;#34;, &amp;#34;rackspace&amp;#34;) pyrax.</description>
     </item>
     
   </channel>

@@ -17,3 +17,42 @@ The following example will show you how to test this and watch while an EC2 inst
 yum install -y stress
 stress --cpu 1 --timeout 300
 ```
+
+See the screen shot below:
+
+![Create Launch Configuration](Screen-Shot-2017-12-15.png)
+
+This just has the effect of hammering the instance’s CPU for 300 seconds, which should be enough for the autoscaler to notice the cpu loaded and launch another Ec2 Instance.
+
+2. Setup the Autoscaler Group.  This is where we set up the actual autoscaler to launch an initial instance, monitor  CPU and launch another instance if the CPU hits a defined threshold.
+
+For the purpose of the example we will set the CPU to be the measured metric and keep it quite low 30%) so we can easily exceed this cpu metric and see the next instance being launched quite quickly without too much waiting around.
+
+So next create a new auoscaling group, name it and select the launch configuration created in the previous step.
+
+![Create Launch Configuration](Screen-Shot-2017-12-15-at-12.33.01.png)
+
+We setup the autoscaler name, the group size which we start with 1 instance. Fill in relevant VPC nd subnet data. For the purpose of the test using the default VPC is fine.
+Next we configure the autoscaling policies, and we select the "Using scaling policies to adjust the capacity of this group"
+
+![Create Launch Configuration](Screen-Shot-2017-12-15-at-12.33.01.png)
+
+Set the scale between 1 and 2 instances and the metric type of Average CPU utilisation and a target value of 30.
+
+Save this Autoscaling group and it should now be created. If all goes well we should see the first instance being lauched in the EC2 instance list.
+
+![First instance](Screen-Shot-2017-12-15-at-13.21.30.png)
+
+Once the instance is launched we can SSH to it. And see if our stress command has indeed caused some stress by running the top command.
+
+![Top Stress](Screen-Shot-2017-12-15-at-13.24.29.png)
+
+It certainly has caused some stress, the cpu utilisation is now at 99% which will be enough to trigger the autoscaler to launch another instance.
+
+Let’s check the EC2 console and see if there is a second instance on it’s way
+
+![Launched second instance](Screen-Shot-2017-12-15-at-14.38.29.png)
+
+Yep there is. And if you look at the EC2 autoscaler group history we can see the event when the second server is launched and eventually when the CPU stress test is over all we see a follow up event when the very first EC2 instance be terminated.
+
+![terminated instance](Screen-Shot-2017-12-15-at-14.48.45.png)
